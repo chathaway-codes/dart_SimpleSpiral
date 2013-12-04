@@ -1,0 +1,430 @@
+---
+build.dart --machine --full
+
+build.dart finished [65 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [53 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [55 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [65 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [58 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [30 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [30 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [103 ms]
+
+---
+build.dart --machine --changed=app/gl_program.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=app/gl_program.dart
+
+build.dart finished [104 ms]
+
+---
+build.dart --machine --changed=app/gl_program.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=app/gl_program.dart
+
+build.dart finished [108 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.html
+
+build.dart finished [37 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [108 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [106 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [103 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [104 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [104 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [106 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [102 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [103 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [106 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [98 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [110 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [105 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [106 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [102 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [108 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [36 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart.js --changed=app/simplespiral.dart.js.deps --changed=app/s...
+
+build.dart finished [28 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [98 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --removed=app/simplespiral.dart.js --removed=app/simplespiral.dart.js.deps --removed=app/s...
+
+build.dart finished [31 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart.js --changed=app/simplespiral.dart.js.deps --changed=app/s...
+
+build.dart finished [30 ms]
+
+---
+build.dart --machine --removed=app/simplespiral.dart.js --removed=app/simplespiral.dart.js.deps --removed=app/s...
+
+build.dart finished [33 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [110 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [108 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [110 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [109 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [110 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [102 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [106 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [108 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.dart
+
+build.dart finished [107 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.html
+
+build.dart finished [37 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.html
+
+build.dart finished [33 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.html
+
+build.dart finished [37 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.html
+
+build.dart finished [36 ms]
+
