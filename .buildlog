@@ -1733,3 +1733,48 @@ build.dart --machine --removed=app/sdk/dart-sdk.bin
 
 build.dart finished [37 ms]
 
+---
+build.dart --machine --changed=out.js --changed=out.js.deps --changed=out.js.map --changed=out.precompiled.js
+
+build.dart finished [35 ms]
+
+---
+build.dart --machine --changed=dist/out.js --removed=out.js
+
+build.dart finished [38 ms]
+
+---
+build.dart --machine --changed=dist/simplespiral.html --removed=out.js.deps --removed=out.js.map --removed=out....
+
+build.dart finished [37 ms]
+
+---
+build.dart --machine --changed=dist/simplespiral.html
+
+build.dart finished [33 ms]
+
+---
+build.dart --machine --changed=dist/simplespiral.html
+
+build.dart finished [35 ms]
+
+---
+build.dart --machine --changed=dist/bootstrap.js
+
+build.dart finished [35 ms]
+
+---
+build.dart --machine --changed=dist/out.js --changed=dist/out.js.deps --changed=dist/out.js.map --changed=dist/...
+
+build.dart finished [38 ms]
+
+---
+build.dart --machine --changed=dist/simplespiral.css
+
+build.dart finished [36 ms]
+
+---
+build.dart --machine --changed=dist/background.js --changed=dist/bootstrap.js --changed=dist/simplespiral.dart....
+
+build.dart finished [35 ms]
+

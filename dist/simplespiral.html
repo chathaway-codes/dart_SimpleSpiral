@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>SimpleSpiral</title>
+<link rel="stylesheet" href="simplespiral.css">
+</head>
+<body>
+	<div id="fps" style="float: left; position: absolute; color: green"></div>
+	<canvas id="lesson01-canvas" style="border: none;" width="500"
+		height="500"></canvas>
+	<script src="packages/browser/interop.js"></script>
+
+	<script src="bootstrap.js"></script>
+
+    <script src="out.js"></script>
+
+	<div>
+		<label for="degrees">Degrees</label><input type="text" id="degrees"
+			value="2000.0"></input> <label for="resolution">Resolution</label><input
+			type="text" id="resolution" value=".05"></input> <label for="a">A</label><input
+			type="text" id="a" value=".5"></input> <label for="b">B</label><input
+			type="text" id="b" value=".05"></input> <input type="button"
+			value="Update" id="update">Update</input>
+	</div>
+</body>
+</html>
