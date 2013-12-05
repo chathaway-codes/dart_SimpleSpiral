@@ -2,5 +2,9 @@ name: SimpleSpiral
 description: A sample chrome packaged application
 dependencies:
   browser: any
+  intl: any
   vector_math:
     git: https://github.com/johnmccutchan/vector_math.git
+dev_dependencies:
+  args: any
+  grinder: '>=0.4.3'

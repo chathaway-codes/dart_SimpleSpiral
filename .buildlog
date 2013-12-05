@@ -1698,3 +1698,38 @@ build.dart --machine --changed=app/simplespiral.dart
 
 build.dart finished [106 ms]
 
+---
+build.dart --machine --full
+
+build.dart finished [312 ms]
+
+---
+build.dart --machine --changed=app/simplespiral.html
+
+build.dart finished [29 ms]
+
+---
+build.dart --machine --changed=app.crx --changed=app.pem
+
+build.dart finished [34 ms]
+
+---
+build.dart --machine --changed=out.js --changed=out.js.deps --changed=out.js.map --changed=out.precompiled.js
+
+build.dart finished [36 ms]
+
+---
+build.dart --machine --removed=app.crx --removed=app.pem --removed=grind --removed=out.js --removed=out.js.deps...
+
+build.dart finished [36 ms]
+
+---
+build.dart --machine --removed=dist/spark-rev-7ce7bc50f7.zip --removed=tool/grind.dart
+
+build.dart finished [216 ms]
+
+---
+build.dart --machine --removed=app/sdk/dart-sdk.bin
+
+build.dart finished [37 ms]
+
